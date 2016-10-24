@@ -1,0 +1,36 @@
+h1 {
+    height: 100px;
+    width :100x;
+}
+
+body{
+    color:black;
+    font-family:arial;
+    font-size: 12px;
+    background-color: gray;0
+}
+
+#header{
+    color:white;
+    font-family: arial;
+    font-size: 12px;
+    background-color: black;
+    padding:25px;
+    width:1470px;
+    float:left;
+}
+
+#sidebar{
+    color:white;
+    font-family:arial;
+    font-size:12px;
+    background-color:blue;
+    padding:25px;
+    width:200px;
+    height:450px
+    float:left;     
+}
+
+#footer{
+    clear:
+}
